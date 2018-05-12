@@ -1,0 +1,51 @@
+_repo: Report-of-the-Decision-of-the-Supreme-Court-of-the-United-States-and-the-Opinions-of-the-Judg__31425
+_version: 0.1.0
+contributor:
+  other_contributors:
+  - agent_name: Sanford, John F. A.
+    alias: Sandford, John F. A.
+    birthdate: 1806
+    deathdate: 1857
+    gutenberg_agent_id: '42382'
+    url: http://www.gutenberg.org/2009/agents/42382
+  - agent_name: Scott, Dred
+    birthdate: 1809
+    deathdate: 1858
+    gutenberg_agent_id: '42383'
+    url: http://www.gutenberg.org/2009/agents/42383
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Howard, Benjamin C. (Benjamin Chew)
+    alias: Howard, Benjamin Chew
+    birthdate: 1791
+    deathdate: 1872
+    gutenberg_agent_id: '35219'
+    url: http://www.gutenberg.org/2009/agents/35219
+  - agent_name: United States. Supreme Court
+    aliases:
+    - Supreme Court of the United States
+    - Supreme Court (U.S.)
+    gutenberg_agent_id: '42381'
+    url: http://www.gutenberg.org/2009/agents/42381
+description: ''
+gutenberg_bookshelf: Noteworthy Trials(Bookshelf)
+gutenberg_issued: '2010-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31425'
+  lccn: 07008916
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scott, Dred, 1809-1858'
+- !lcc 'KF'
+- !lcsh 'Slavery -- United States'
+title: "Report of the Decision of the Supreme Court of the United States, and the\
+  \ Opinions of the Judges Thereof, in the Case of Dred Scott versus John F. A. Sandford\r\
+  \nDecember Term, 1856."
+url: http://www.gutenberg.org/ebooks/31425
